@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+	font-weight: bold;
+}
+.vertical{
+	background-color: lightgrey;
+	border-color: black;size: 0.02px;
+}
+.orange{
+	background-color: orange;
+}
